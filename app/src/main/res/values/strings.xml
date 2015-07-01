@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AddContactLocal</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="spinnertext">
+        <item> Select...</item>
+        <item> Family </item>
+        <item> Office </item>
+        <item> Business </item>
+        <item> Friends </item>
+    </string-array>
+</resources>
